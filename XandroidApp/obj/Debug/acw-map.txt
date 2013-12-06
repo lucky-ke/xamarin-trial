@@ -1,0 +1,2 @@
+XandroidApp.MainActivity;xandroidapp.MainActivity
+XandroidApp.ProductDisplayActivity;xandroidapp.ProductDisplayActivity

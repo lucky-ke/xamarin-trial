@@ -1,0 +1,4 @@
+C:\Users\reggie.bradshaw\Documents\XandroidApp\ProductLookUp.Core\bin\Debug\ProductLookUp.Core.dll
+C:\Users\reggie.bradshaw\Documents\XandroidApp\ProductLookUp.Core\bin\Debug\ProductLookUp.Core.pdb
+C:\Users\reggie.bradshaw\Documents\XandroidApp\ProductLookUp.Core\obj\Debug\ProductLookUp.Core.dll
+C:\Users\reggie.bradshaw\Documents\XandroidApp\ProductLookUp.Core\obj\Debug\ProductLookUp.Core.pdb

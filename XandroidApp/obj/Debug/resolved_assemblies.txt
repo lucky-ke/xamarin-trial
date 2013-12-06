@@ -1,0 +1,2 @@
+C:\Users\reggie.bradshaw\Documents\XandroidApp\XandroidApp\bin\Debug\XandroidApp.dll
+C:\Users\reggie.bradshaw\Documents\XandroidApp\ProductLookUp.Core\bin\Debug\ProductLookUp.Core.dll
